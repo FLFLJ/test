@@ -1,0 +1,12 @@
+{
+    "msg":"ok",
+    "status":0,
+    "data":{
+                "id":3,
+                "nm":"北京",
+                "isHot":1,
+                "py":"beijing"
+            }
+        
+    
+}

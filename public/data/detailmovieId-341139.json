@@ -1,0 +1,94 @@
+{
+    "msg":"ok",
+    "status":0,
+    "data":{
+        "detailMovie":{
+            
+                "albumImg":"https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                "availableEpisodes":0,
+                "avardUrl":"",
+                "bingeWatch":128925,
+                "bingeWatchst":128925,
+                "cat":"喜剧，动作，冒险",
+                "comScorePersons":true,
+                "commented":false,
+                "dir":"大卫·雷奇",
+                "distributions":[
+                    {
+                        "movieScoreLevel":"9-10分",
+                        "proportion":"52.22"
+                    },
+                    {
+                        "movieScoreLevel":"5-8分",
+                        "proportion":"30.22"
+                    },
+                    {
+                        "movieScoreLevel":"1-4分",
+                        "proportion":"17.22"
+                    }
+                ],
+                "dra":"鳗为史上最卡刷卡可否发你如何解释就是你繁华热闹团结工会，上课开始开发经费金额金额金额金额就，犯贱犯贱犯贱犯贱难得难得难得你热吗热吗",
+                "dur":119,
+                "egg":true,
+                "erm":"once ksjs ks ks",
+                "episodeDur":0,
+                "episodes":0,
+                "fra":"美国",
+                "frt":"2018-05-18",
+                "globalReleased":true,
+                "id":341139,
+                "img":"https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                "latesEpisode":0,
+                "modcsSt":false,
+                "movieType":0,
+                "multiPub":true,
+                "musicName":"Ashes",
+                "musicNm":1,
+                "musicStar":"ddd ddd",
+                "nm":"死侍2：我爱我家",
+                "onSale":false,
+                "onlinePlay":false,
+                "orderSt":0,
+                "oriLang":"英语",
+                "photos":[
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                    "https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2"
+
+                ],
+                "pn":272,
+                "preScorePersona":false,
+                "proScore":0,
+                "proScoreNum":1,
+                "pubDesc":"2019-01-25大陆上映",
+                "rt":"2019-01-25",
+                "sc":7.5,
+                "scm":"",
+                "scoreLabel":"猫眼购票评分",
+                "showst":0,
+                "snm":165552,
+                "src":"美国",
+                "star":"瑞安·雷诺，乔神·布洛林，雷莫乃·把卡林",
+                "type":0,
+                "vd":"",
+                "ver":"2d",
+                "videoName":"监视春节问候",
+                "videourl":"sdgsdfsf.mp4",
+                "vievedSt":0,
+                "vnm":17,
+                "vodFreeSt":0,
+                "vodPlay":false,
+                "vodSt":0,
+                "wish":128925,
+                "wishst":0,
+                "version":"v2d imax"
+    }
+        
+    }
+}

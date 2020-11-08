@@ -1,0 +1,36 @@
+{
+    "msg":"ok",
+    "status":0,
+    "data":{
+        "movies":{
+            "list":[
+                {
+                "cat":"剧情犯罪",
+                "dir":"小小只",
+                "enm":"A Cool Fish",
+                "fra":"美国，中国",
+                "frt":"2018-11-16,2018-11-22",
+                "globalReleased":true,
+                "id":46521584,
+                "img":"https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=514943120,583237469&fm=58&s=C0308D72032E7CA87AE040E10300F0A2",
+                "movieType":0,
+                "nm":"阿甘正传",
+                "onlinePlay":"false",
+                "pubDesc":"2018-11-16大陆上映",
+                "rt":"2018-11-16",
+                "sc":"9.0",
+                "show":"",
+                "showst":2,
+                "star":"陈建斌",
+                "type":0,
+                "ver":"20",
+                "vodPlay":false,
+                "wish":15666,
+                "wishst":0,
+                "version":""
+                }
+            ]
+        }
+
+    }
+}
